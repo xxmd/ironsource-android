@@ -1,0 +1,2 @@
+rootProject.name = "xposed-start"
+include ':app'
